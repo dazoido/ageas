@@ -1,1 +1,1 @@
-README
+Technical exercises for Java Engineer position with Ageas
